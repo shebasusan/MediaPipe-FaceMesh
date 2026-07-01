@@ -51,6 +51,18 @@ A real-time face mesh detection project built using **Python**, **OpenCV**, and 
 * Virtual try-on systems
 * Animation and gaming
 
+  Face Mesh is used for:
+
+* Detecting 468 facial landmark points in real time.
+* Tracking facial features such as the eyes, eyebrows, nose, lips, jawline, and face contour.
+* Creating AR filters (Snapchat/Instagram-style effects).
+* Face alignment and face geometry estimation.
+* Eye tracking and blink detection.
+* Expression analysis (smile, mouth open, eyebrow movement).
+* Virtual makeup and beauty filters.
+* Head pose estimation.
+* Face recognition preprocessing.
+
 ---
 
 ##  Output
