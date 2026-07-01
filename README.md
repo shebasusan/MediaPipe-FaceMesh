@@ -21,7 +21,7 @@ A real-time face mesh detection project built using **Python**, **OpenCV**, and 
 
 ---
 
-## ▶ How to Run
+##  How to Run
 
 1. Clone the repository:
 
