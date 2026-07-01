@@ -26,8 +26,8 @@ A real-time face mesh detection project built using **Python**, **OpenCV**, and 
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/shebasusan/MediaPipe-FaceMesh.git
+   cd MediaPipe-FaceMesh
    ```
 
 2. Install dependencies:
@@ -39,7 +39,7 @@ A real-time face mesh detection project built using **Python**, **OpenCV**, and 
 3. Run the project:
 
    ```
-   python face_mesh_webcam.py
+   python face_mesh_webcam - Copy.py
    ```
 
 ---
@@ -59,12 +59,5 @@ The system will open your webcam and display a real-time face mesh overlay.
 
 ---
 
-##  Future Improvements
-
-* Add face recognition
-* Emotion detection
-* Gesture control integration
-
----
 
  This project is a great starting point for exploring real-time computer vision using MediaPipe.
