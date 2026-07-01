@@ -1,4 +1,4 @@
-# 🧠 MediaPipe Face Mesh
+#  MediaPipe Face Mesh
 
 A real-time face mesh detection project built using **Python**, **OpenCV**, and **MediaPipe**. This application captures live webcam video and detects facial landmarks, rendering a detailed mesh on the face.
 
